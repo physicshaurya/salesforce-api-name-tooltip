@@ -1,5 +1,3 @@
-// content.js
-
 // Listen for mouse hover events on fields
 document.addEventListener("mouseover", function(event) {
     const target = event.target;
